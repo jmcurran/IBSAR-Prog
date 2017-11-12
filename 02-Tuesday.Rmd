@@ -2,8 +2,8 @@
 <p style="color:white;background-color:red;text-align:center">Keynote: Tuesday 28<sup>th</sup> 9:00 Mantra</p>
 ## Cluster Capture-Recapture: A New Framework For Estimating Population Size {-}
 <p style="text-align:center">
-Rachel Fewster<br>
-University of Auckland<br>
+Rachel Fewster<br />
+University of Auckland<br />
 </p>
 Ask any wildlife manager: their first burning question is `how many are there?', and their second is `are they trending upwards or downwards?' Capture-recapture is one of the most popular methods for estimating population size and trends. As the name suggests, it relies on being able to identify the same animal upon multiple capture occasions. The pattern of captures and recaptures among identified animals is used to estimate the number of animals never captured. 
 
@@ -15,46 +15,46 @@ Because it avoids any attempts at explicit sample-matching, the cluster capture-
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 10:30 Narrabeen</p>
 ## Propensity Score Approaches In The Presence Of Missing Data: Comparison Of Balance And Treatment Effect Estimates {-}
 <p style="text-align:center">
-Jannah Baker<sup>1</sup>, Tim Watkins<sup>1</sup>, and Laurent Billot<sup>1</sup><br>
-<sup>1</sup>The George Insitute for Global Health<br>
-<sup>2</sup>University of Sydney<br>
-<sup>3</sup>University of New South Wales<br>
+Jannah Baker<sup>1</sup>, Tim Watkins<sup>1</sup>, and Laurent Billot<sup>1</sup><br />
+<sup>1</sup>The George Insitute for Global Health<br />
+<sup>2</sup>University of Sydney<br />
+<sup>3</sup>University of New South Wales<br />
 </p>
 The use of propensity score methods can potentially improve balance between groups in observational study data, thus minimising confounding. However, a frequent problem with such studies is the presence of missing data. We compare three approaches to generating the propensity score accounting for missing data within the context of a clinical case study examining the effect of telemonitoring on hypertension. Overall, 4,642 patients diagnosed with hypertension receiving online health support in My Health Guardian – a telephone chronic disease support program offered by private health insurer HCF – were offered a telemonitoring intervention. Of these, 2,729 accepted and started treatment between July 2014 to April 2015 (designated “cases”), and 1,913 declined (designated “controls”). Data were available from cases and controls on several baseline variables including demographic, lifestyle and clinical characteristics. Outcomes were the number of hospitalisations, total length of stay and total cost of hospitalisation between 1 January to 31 December 2016. Propensity score methods were used to balance baseline variables between groups. Three approaches were used to generate propensity scores from a logistic regression model accounting for missing data: 1) categorisation of all variables with “Missing” as a category, 2) multiple imputation of treatment effect (MIte) where treatment effect estimates are combined over 20 imputed datasets, and 3) multiple imputation of propensity score (MIps) where propensity scores are first averaged over imputed datasets prior to estimation of treatment effects. The propensity score from each approach was then used in two ways: a) matching cases to controls, and b) inverse probability of treatment weighting (IPTW). The balance achieved by each approach was compared using standardised differences of means and proportions in baseline characteristics between groups. The treatment effect estimates from each approach were also compared. The discussion will canvas our findings and recommendations for handling missing data when using propensity score approaches.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 10:30 Gunnamatta</p>
 ## Visualising Model Selection Stability In High-Dimensional Regression Models {-}
 <p style="text-align:center">
-Garth Tarr<br>
-University of Sydney<br>
+Garth Tarr<br />
+University of Sydney<br />
 </p>
 The mplot R package provides a provides an implementation of model stability and variable inclusion plots for researchers to use to better inform the variable selection process. The initial focus was on exhaustive searches through the model space, however, this quickly becomes infeasible for high dimensional models. An alternative approach for high dimensional models is to combine bootstrap model selection with regularisation procedures. There exist a number of fast and efficient method regularisation methods for variable selection in high dimensional regression settings. We have implemented variable inclusion plots and model stability plots using the glmnet package. We demonstrate the utility of the mplot package in identifying stable regularised model selection choices with respect to two main sources of uncertainty. Firstly, by resampling the data we are able to determine how often various models are chosen when the data changes. Secondly, we are able to evaluate how often competing models are chosen across a range of values for the tuning parameter. Exploring these two sources of uncertainty in model selection generates a large amount of raw data that needs to be processed. The mplot package provides a variety of methods to visualise this raw data to help inform a researcher's model selection choice.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 10:50 Narrabeen</p>
 ## The Missing Link: An Equivalence Result For Likelihood Based Methods In Missing Data Problems {-}
 <p style="text-align:center">
-Firouzeh Noghrehchi, Jakub Stoklosa, Spiridon Penev, and David I. Warton<br>
-University of New South Wales<br>
+Firouzeh Noghrehchi, Jakub Stoklosa, Spiridon Penev, and David I. Warton<br />
+University of New South Wales<br />
 </p>
 Multiple imputation and maximum likelihood estimation (via the expectation-maximization algorithm) are two well-known methods readily used for analysing data with missing values. These two methods are often considered as being distinct from one another, due to their construction for estimation and their theoretical properties. We show that there is a close relationship between the two methods. Specifically, we show that a type of multiple imputation can be understood as a stochastic expectation-maximisation approximation to maximum likelihood. As a result, we can explore the application of a range of likelihood-based tools in the multiple imputation context in order to improve its performance. In particular, we develop information criteria for selecting an imputation model given a set of competing models, and a flexible likelihood ratio test when models are fitted by multiple imputation. We demonstrate our methods on real and simulated datasets.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 10:50 Gunnamatta</p>
 ## Dimensionality Reduction Of LIBS Data For Bayesian Analysis {-}
 <p style="text-align:center">
-Anjali Gupta<sup>1</sup>, James Curran<sup>1</sup>, Sally Coulson<sup>2</sup>, and Christopher Triggs<sup>1</sup><br>
-<sup>1</sup>University of Auckland<br>
-<sup>2</sup>ESR<br>
+Anjali Gupta<sup>1</sup>, James Curran<sup>1</sup>, Sally Coulson<sup>2</sup>, and Christopher Triggs<sup>1</sup><br />
+<sup>1</sup>University of Auckland<br />
+<sup>2</sup>ESR<br />
 </p>
 In 2004, Aitken and Lucy published an article detailing a two-level likelihood ratio for multivariate trace evidence. This model has been adopted in a number of forensic disciplines such as the interpretation of glass, drugs (MDMA), and ink. Modern instrumentation is capable of measuring many elements in very low quantities and, not surprisingly, forensic scientists wish to exploit the potential of this extra information to increase the weight of this evidence. The issue, from a statistical point of view, is that the increase in the number of variables (dimension) in the problem leads to increased data demand to understand both the variability within a source, and in between sources. Such information will come in time, but usually we don’t have enough. One solution to this problem is to attempt to reduce the dimensionality through methods such as principal component analysis. This practice is quite common in high dimensional machine learning problems. In this talk, I will describe a study where we attempt to quantify the effects of this this approach on the resulting likelihood ratios using data obtained from a Laser Induced Breakdown Spectroscopy (LIBS) instrument.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:10 Narrabeen</p>
 ## Analysis Of Melanoma Data With A Mixture Of Survival Models Utilising Multi-Class DLDA To Inform Mixture Class {-}
 <p style="text-align:center">
-Sarah Romanes, John Ormerod, and Jean Yang<br>
-University of Sydney<br>
+Sarah Romanes, John Ormerod, and Jean Yang<br />
+University of Sydney<br />
 </p>
 Melanoma is a prevalent skin cancer in Australia, with close to 14000 new cases estimated to be diagnosed in 2017. Survival times are markedly different from one individual to the next. In particular, there appears to be three classes of survival outcome. This talk considers integrating survival time data with microarray gene expression data. We construct a hybrid model that seamlessly integrates a three-class linear discriminant analysis model, mixture of parametric survival models, and model selection components. We fit this model using a variational expectation maximization (VEM) approach. Our model selection component naturally simplifies as a function of likelihood ratio statistics allowing natural comparisons with traditional hypothesis testing methods. We compare our method with several naïve approaches which only addresses the classification aspect or survival model aspect in isolation.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:10 Gunnamatta</p>
 ## Forecasting Hotspots Of Potentially Preventable Hospitalisations With Spatially Aggregated Longitudinal Health Data: All Subset Model Selection With A Novel Implementation Of Repeated K-Fold Cross-Validation {-}
 <p style="text-align:center">
-Berwin Turlach, Kevin Murray, Matthew Tuson, Mei Ruu Kok, Alistair Vickery, and David Whyatt<br>
-University of Western Australia<br>
+Berwin Turlach, Kevin Murray, Matthew Tuson, Mei Ruu Kok, Alistair Vickery, and David Whyatt<br />
+University of Western Australia<br />
 </p>
 It is sometimes difficult to target individuals for health intervention due to limited information on their behaviour and risk factors. In such cases place-based interventions targeting geographical ‘hotspots’ with higher than average rates of health service utilisation may be effective. Many studies exist examining predictors of hotspots, but often do not consider that place-based interventions are typically costly and take time to develop and implement, and hotspots often regress to the mean in the short-term. Long-term geographical forecasting of hotspots using validated statistical models is essential in effectively prioritising place-based health interventions.
 
@@ -62,15 +62,15 @@ Existing methods forecasting hotspots tend to prioritise positive predicted valu
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:30 Narrabeen</p>
 ## Identifying Clusters Of Patients With Diabetes Using A Markov Birth-Death Process {-}
 <p style="text-align:center">
-Thomas Lumley, Mugdha Manda, and Susan Wells<br>
-University of Auckland<br>
+Thomas Lumley, Mugdha Manda, and Susan Wells<br />
+University of Auckland<br />
 </p>
 Estimating disease trajectories has increasingly become more essential to clinical practitioners to administer effective treatment to their patients. A part of describing disease trajectories involves taking patients' medical histories and sociodemographic factors into account and grouping them into similar groups, or clusters. Advances in computerised patient databases have paved a way for identifying such trajectories in patients by recording a patient's medical history over a long period of time (longitudinal data): we studied data from the PREDICT-CVD dataset, a national primary-care cohort from which people with diabetes from 2002-2015 were identified through routine clinical practice. We fitted a Bayesian hierarchical linear model with latent clusters to the repeated measurements of HbA1c and eGFR, using the Markov birth-death process proposed by Stephens (2000) to handle the changes in dimensionality as clusters were added or removed.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:30 Gunnamatta</p>
 ## Challenges Analysing Combined Agricultural Field Trials With Partially Overlapping Treatments {-}
 <p style="text-align:center">
-Kerry Bell and Michael Mumford<br>
-Queensland Department of Agriculture and Fisheries<br>
+Kerry Bell and Michael Mumford<br />
+Queensland Department of Agriculture and Fisheries<br />
 </p>
 To make recommendations on which management practices have the potential to increase crop yield there needs to be a consistent pattern demonstrated across trials from many environments.
 This presentation considers a case study looking at 31 mungbean trials in northern Australian from 2014 to 2016. The trials did not always have consistent factors (e.g. variety, row spacing or target plant density) or even consistent factor levels. To overcome the issue of inconsistent factors, environments were defined as the combination of site, year and any management factors not common across trials (e.g. time of sowing, irrigation, fertiliser).
@@ -82,9 +82,9 @@ Clustering of environments allowed forming groups that did not have a significan
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:50 Narrabeen</p>
 ## A Hidden Markov Model For Sleep Stage Detection Using Raw Tri-Axial Wrist Actigraphy {-}
 <p style="text-align:center">
-Berwin Turlach<sup>1</sup>, Kevin Murray<sup>1</sup>, Michelle Trevenen<sup>1</sup>, Leon Straker<sup>2</sup>, and Peter Eastwood<sup>1</sup><br>
-<sup>1</sup>University of Western Australia<br>
-<sup>2</sup>Curtin University<br>
+Berwin Turlach<sup>1</sup>, Kevin Murray<sup>1</sup>, Michelle Trevenen<sup>1</sup>, Leon Straker<sup>2</sup>, and Peter Eastwood<sup>1</sup><br />
+<sup>1</sup>University of Western Australia<br />
+<sup>2</sup>Curtin University<br />
 </p>
 Sleep is a complex yet organised process consisting of regular cycles of sleep stages. These stages are rapid-eye movement and non-rapid eye movement (light sleep and slow-wave sleep). Sleep staging is of great importance in the physiological world as sleep disorders occur in around 20% of the population and are associated with a multitude of serious health implications and considerable economic burden. Hidden Markov models have been successfully used in the classification of individual sleep stages measured by polysomnography, which is considered the 'gold standard' in assessing sleep, however, it is intrusive and costly. 
 
@@ -96,8 +96,8 @@ Validation suggested that our model is able to classify sleep stages using raw t
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 11:50 Gunnamatta</p>
 ## Sparse Phenotyping Designs For Early Stage Selection Experiments In Plant Breeding Programs {-}
 <p style="text-align:center">
-Nicole Cocks, Alison Smith, David Butler, and Brian Cullis<br>
-University of Wollongong<br>
+Nicole Cocks, Alison Smith, David Butler, and Brian Cullis<br />
+University of Wollongong<br />
 </p>
 The early stages of cereal and pulse breeding programs typically involve in excess of 500 test lines. The test lines are promoted through a series of trials based on their performance (yield) and other desirable traits such as heat/drought tolerance, disease resistance, etc. It is therefore important to ensure the design (and analysis) of these trials are efficient in order to appropriately and accurately guide the breeders through their selection decisions, until only a small number of elite lines remain.
 
@@ -107,8 +107,8 @@ A new method to allow for a larger number of environments to be sampled for situ
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 12:10 Narrabeen</p>
 ## Comparisons Of Two Large Long-Term Studies In Alzheimer's Disease {-}
 <p style="text-align:center">
-Charley Budgeon<br>
-University of Western Australia<br>
+Charley Budgeon<br />
+University of Western Australia<br />
 </p>
 The incidence of Alzheimer’s disease (AD), the leading cause of dementia, is predicted to increase at least three fold by 2050. Curing this disease is a global priority. Currently, two major studies are attempting to gain further understanding of this disease; the Alzheimer's Disease Neuroimaging Initiative (ADNI) and the Australian Imaging, Biomarker and Lifestyle Study (AIBL). We describe these two cohorts to assess the impact of combining them to provide a larger cohort for analyses.
 
@@ -120,8 +120,8 @@ Our results suggest there is the potential to combine the ADNI and AIBL cohorts 
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 12:10 Gunnamatta</p>
 ## A One-Stage Mixed Model Analysis Of Canola Chemistry Trials {-}
 <p style="text-align:center">
-Alison Smith, Brian Cullis, Daniel Tolhurst, and Ky Mathews<br>
-University of Wollongong<br>
+Alison Smith, Brian Cullis, Daniel Tolhurst, and Ky Mathews<br />
+University of Wollongong<br />
 </p>
 The National Variety Trials (NVT) program is used by plant breeding companies to evaluate the yield potential of new crop varieties independently across a large range of Australian growing conditions. By comparison with the remaining NVT crops, grower decisions are further complicated in canola because of its vulnerability to the infestation of weeds. A measure historically used by farmers for the management of weeds is the application of a herbicide (chemistry) treatment. The choice of chemistry is important as it restricts variety selection to those bred with the specific tolerance. The set of varieties currently evaluated in NVT are tolerant to one of three chemistries, namely imidazolinone (I; but marketed as Clearfield), glyphosate (Roundup Ready; R) or triazine (T), or have no specific tolerance (i.e. conventional canola; C). Consequently, canola has a more complex testing regime than the remaining NVT crops as each trial has a nested treatment structure involving both chemistries and varieties.
 
@@ -129,19 +129,19 @@ Canola trials are conducted in locations across the Australian grain belt and re
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 12:30 Narrabeen</p>
 ## A Semi-Parametric Linear Mixed Models For Longitudinally Measured Fasting Blood Sugar Level Of Adult Diabetic Patients {-}
 <p style="text-align:center">
-Tafere Tilahun<sup>1</sup>, Belay Birlie<sup>1</sup>, and Legesse Kassa Debusho<sup>2</sup><br>
-<sup>1</sup>Jimma University<br>
-<sup>2</sup>University of South Africa<br>
+Tafere Tilahun<sup>1</sup>, Belay Birlie<sup>1</sup>, and Legesse Kassa Debusho<sup>2</sup><br />
+<sup>1</sup>Jimma University<br />
+<sup>2</sup>University of South Africa<br />
 </p>
 This paper focused on longitudinal data analysis of fasting blood sugar (FBS) level of adult diabetic patients at Jimma University Specialized Hospital diabetic clinic using an application of semi-parametric mixed model. The study revealed that the rate of change in FBS level in diabetic patients, due to the clinic interventions, does not continue as a steady pace but changes with time and weight of patients. Furthermore, it clarified associations between FBS level and some characteristics of adult diabetic patients that weight of a diabetes patient has a significant negative effect whereas patient gender, age, type of diabetes and family history of diabetes did not have a significant effect on the change of FBS level. Under various variance structures of subject-specific random effects, the semi-parametric mixed models had better fit than linear mixed model. This was likely due to the localized splines, which captured more variability in FBS level than the linear mixed model.
 <p style="background-color:#ccccff;text-align:center">Tuesday 28<sup>th</sup> 12:30 Gunnamatta</p>
 ## Individual And Joint Analyses Of Sugarcane Experiments To Select Test Lines {-}
 <p style="text-align:center">
-Chris Brien<sup>1</sup>, Alessandra Dos Santos<sup>2</sup>, Clarice G. B. Demétrio<sup>2</sup>, Renata Alcarde Sermarini<sup>2</sup>, Guilherme A. P. Silva<sup>3</sup>, and Sandro R. Fuzatto<sup>3</sup><br>
-<sup>1</sup>University of South Australia<br>
-<sup>2</sup>University of São Paulo<br>
-<sup>3</sup>CTC - Piracicaba<br>
-<sup>4</sup>Universtiy of Adelaide<br>
-<sup>5</sup>University of Adelaide<br>
+Chris Brien<sup>1</sup>, Alessandra Dos Santos<sup>2</sup>, Clarice G. B. Demétrio<sup>2</sup>, Renata Alcarde Sermarini<sup>2</sup>, Guilherme A. P. Silva<sup>3</sup>, and Sandro R. Fuzatto<sup>3</sup><br />
+<sup>1</sup>University of South Australia<br />
+<sup>2</sup>University of São Paulo<br />
+<sup>3</sup>CTC - Piracicaba<br />
+<sup>4</sup>Universtiy of Adelaide<br />
+<sup>5</sup>University of Adelaide<br />
 </p>
 In the early stages of a breeding program many field trials are conducted, considering several soil and weather conditions. In the case of sugarcane, these experiments are installed using a large number of test lines, but limitations in the field and of the amount of genetic material do not allow the replication of many. This work evaluated 21 trials from different regions, from a Brazilian sugarcane breeding program. Each of these experiments occupied a rectangular array of around 20 rows by 25 columns in most instance, the plots were 12 m longer, double-furrows with 0.9m between furrows within the plot and 1.5m spacing between different plots and 1m between columns. All the trials had at least 79% of the area planted with unreplicated test lines, the at most 21% of the plots were occupied by four commercial varieties, check. A special check, interspersed along diagonals, was planted systematically on a diagonal grid, the other three were equally replicated and each replicate was spread out in three neighbouring row plots. Seven of the 21 experiments had no significant direct genetic effects, 11 presented significant competition at the residual level and only one had significant competition at the genetic level. The correlation between the selected test lines for the different experiments in a same region was less than 0.54. However, the genetic correlation was significant in the joint analyses and stronger than that from the individual analyses. Two simulation studies were performed: the first investigated the analysis for a single experiment and the results show that it is difficult to fit a model when there is genetic competition with or without residual competition. The same difficulty was observed in the second study, which compared the results from individual and joint analyses. It showed that, even for the joint analyses, only around 45 to 55% of the true best test lines were selected.
