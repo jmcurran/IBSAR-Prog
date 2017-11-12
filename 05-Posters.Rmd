@@ -1,8 +1,8 @@
-# Poster Abstracts
+# Poster Abstracts {-}
 ## Multi-Environment Trial Analysis Of Agronomy Trials Using Established Plant Population Density {-}
 <p style="text-align:center">
-Kerry Bell and Michael Mumford</br>
-Queensland Department of Agriculture and Fisheries</br>
+Kerry Bell and Michael Mumford<br>
+Queensland Department of Agriculture and Fisheries<br>
 </p>
 There is a growing interest within the grains industry to determine the yield response to plant population density. This can vary depending on the trial location, the hybrid that is planted and the management practices that are employed.
 
@@ -14,16 +14,16 @@ This presentation will focus on the application of the proposed method to a larg
 <p></p>
 ## Adventures In Digital Agriculture In New Zealand {-}
 <p style="text-align:center">
-Vanessa Cave and Esther Meenken</br>
-AgResearch</br>
+Vanessa Cave and Esther Meenken<br>
+AgResearch<br>
 </p>
 New Zealand is a nation for which primary industries are the economic backbone. New Zealand's highly variable landscape means there are a wide range in climatic and soil conditions, with multiple land uses existing in relatively small spatial areas. This means there are many possibilities to be explored in Digital Agriculture as advances in sensory technologies are made. The technical challenges known to be related to the use of sensors include issues around big data, missing data, biased and variable sensors, and various types of structured and non-normal data. We will describe a suite of studies that have been recently undertaken that can be loosely grouped under the Digital Agriculture umbrella. Case studies explore a range of scientific and statistical challenges in the primary industries arena, and include the use of classical and Bayesian Principled Experimental Design, Hierarchical Bayesian Models, neural net classifiers, visualisation, animal tracking via GPS, and data management.
 <p></p>
 ## Modelling Canopy Greenness Over Time Using Splines And Non-Linear Regression {-}
 <p style="text-align:center">
-Alison Kelly<sup>1</sup>, Jack Christopher<sup>2</sup>, and Bethany Macdonald<sup>1</sup></br>
-<sup>1</sup> Queensland Department of Agriculture and Fisheries</br>
-<sup>2</sup> Queensland Alliance for Agriculture and Food</br>
+Alison Kelly~1~, Jack Christopher~2~, and Bethany Macdonald~1~<br>
+~1~Queensland Department of Agriculture and Fisheries<br>
+~2~Queensland Alliance for Agriculture and Food<br>
 </p>
 The ability of a plant to retain leaf greenness for an extended time after anthesis, known as stay-green, has been linked to greater yield in wheat and can vary amongst genotypes. Many aspects of a plant's senescence contribute to stay-green; therefore, accurately modelling senescence and understanding the genetic variation in senescence dynamics is integral to selecting for the stay-green phenotype. Normalised difference vegetative index (NDVI) provides a measure of canopy greenness and when collected over time, can give an indication of when senescence begins and the rate at which it continues. 
  Christopher et al. (2014) captured genetic variation in senescence dynamics using multiple stay-green traits derived from a logistic regression of longitudinal NDVI measurements. These traits were estimated independently for each plot within the experiment, ignoring any sources of covariance, and then subsequently analysed using a linear mixed model. However, no estimation errors were carried from the first to the second stage of the analysis.
@@ -32,16 +32,16 @@ The ability of a plant to retain leaf greenness for an extended time after anthe
 <p></p>
 ## Robust Semiparametric Inference In Random Effects Models {-}
 <p style="text-align:center">
-Alan Welsh<sup>1</sup> and Michael Stewart<sup>2</sup></br>
-<sup>1</sup> ANU</br>
-<sup>2</sup> University of Sydney</br>
+Alan Welsh~1~ and Michael Stewart~2~<br>
+~1~ANU<br>
+~2~University of Sydney<br>
 </p>
 We report on recent work using semiparametric theory to derive procedures with desirable robustness and efficiency properties in the context of inference concerning scale parameters for random effect models.
 <p></p>
 ## A Permutation Test For Comparing Predictive Values In Clinical Trials {-}
 <p style="text-align:center">
-Kouji Yamamoto and Kanae Takahashi</br>
-Osaka City University</br>
+Kouji Yamamoto and Kanae Takahashi<br>
+Osaka City University<br>
 </p>
 Screening tests or diagnostic tests are important for early detection and treatment of disease. There are four well-known measurements, sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) in diagnostic studies. For comparing SEs/SPs, McNemar test is widely used, but there are only few methods for the comparison of PPVs/NPVs. Moreover, all of these methods are based on large-sample theory.
 
@@ -49,15 +49,15 @@ So, in this talk, firstly, we investigate the performance of those methods when 
 <p></p>
 ## On Testing Marginal Homogeneity For Square Contingency Tables With Ordinal Categories {-}
 <p style="text-align:center">
-Kouji Tahata</br>
-Tokyo University of Science</br>
+Kouji Tahata<br>
+Tokyo University of Science<br>
 </p>
 For the analysis of square contingency tables with ordered categories, the marginal homogeneity model, which indicates the row marginal distribution is equal to the column marginal distribution, were considered. Stuart (1955) proposed the test statistics (denoted by Q) for the marginal homogeneity model. However it does not use the information of the category ordering. Agresti (1983) compared between Q and the Mann-Whitney test about the power by simulations. In this paper, we consider some measures to represent the degree of departure from the marginal homogeneity. For example, Tomizawa, Miyamoto and Ashihara (2003) and Tahata, Iwashita and Tomizawa (2008). In the situation given by Agresti (1983), we compare between Q and test based on these measures about the power.
 <p></p>
 ## A Factor Analytic Approach To Modelling Disease Progression Across Leaf Layers And Time {-}
 <p style="text-align:center">
-Alison Kelly, Clayton Forknall, Greg Platz, and Lisle Snyman</br>
-Queensland Department of Agriculture and Fisheries</br>
+Alison Kelly, Clayton Forknall, Greg Platz, and Lisle Snyman<br>
+Queensland Department of Agriculture and Fisheries<br>
 </p>
 Controlling and limiting the impact of foliar diseases is a challenge faced by the Australian grains industry. Foliar diseases compromise and destroy photosynthetic area, thus limiting plant resources and adversely affecting crop productivity. Such diseases often infect the lower leaf layers of plants early in the season and, dependent on their compatibility with the host and environment, progress towards the topmost leaf layers over time. 
 
@@ -68,41 +68,41 @@ Controlling and limiting the impact of foliar diseases is a challenge faced by t
 <p></p>
 ## Associating Straw Strength With Likelihood Of Head Loss In Barley For Western Australia {-}
 <p style="text-align:center">
-Dean Diepeveen<sup>1</sup>, Kefei Chen<sup>1</sup>, Chengdao Li<sup>2</sup>, and David Farleigh<sup>3</sup></br>
-<sup>1</sup> Curtin University</br>
-<sup>2</sup> Murdoch University</br>
-<sup>3</sup> Department of Primary Industries and Development</br>
+Dean Diepeveen~1~, Kefei Chen~1~, Chengdao Li~2~, and David Farleigh~3~<br>
+~1~Curtin University<br>
+~2~Murdoch University<br>
+~3~Department of Primary Industries and Development<br>
 </p>
 Barley headloss is characterised by straw breakage just below the head at or near plant maturity. Our recent research into barley headloss has enabled us to evaluate the various components of plant maturity and have found a clear genetic component to this industry issue. The more challenging components of this research is to understand why our more tolerant cultivars also show substantial headloss in certain unseasonal conditions during harvest. Our preliminary analyses uses environmental data with plant measurement data and looks at the incidences of extreme weather events on barley headloss. What confounds the analysis is the nutrient/growth conditions of the plant and the predisposition of these barley crops to headloss during these weather events. This paper will provide some lessons learnt and future directions 
 Time:
 <p></p>
 ## A Deep Learning Neural Network Model To Identify The Important Genes In Metastatic Breast Cancer From Censored Microarray Data {-}
 <p style="text-align:center">
-Quoc-Anh Trinh</br>
-Vietnam National University</br>
+Quoc-Anh Trinh<br>
+Vietnam National University<br>
 </p>
 Microarray data have been shown to correlated with survival in breast cancer. The most difficult in analysis of this data consist in a simultaneous measure of huge gene expression levels over a few patients available. The conventional survival models such as the proportional hazard model of Cox are no more appropriated including the hazard proportional hypothesis and the linear covariates effect hypothesis. Prognostic studies involve the identification of genes that correlate with survival in order to provide new information on pathogenesis. This result may aid in the research of drug design for new targets.
  We introduce in this paper a deep learning recurrent neural network approach to predict survival times for the individual patient based on microarray measurement. This neural network defines the hazard function of survival not to mention the proportionality and linearity hypothesis. We present a deep learning approach to the identification of genes critical for the metastases of breast cancer. We identified a set of highly interactive genes by analysing the connectivity matrices.
 <p></p>
 ## Using R And Shiny To Develop Web Based Sampling Applications For The Agricultural And Education Sectors {-}
 <p style="text-align:center">
-Peter Kasprzak, Olena Kravchuk, and Andy Timmins</br>
-Univeristy of Adelaide</br>
+Peter Kasprzak, Olena Kravchuk, and Andy Timmins<br>
+Univeristy of Adelaide<br>
 </p>
 Sampling is an important aspect of agricultural statistics and an important feature of industrial reality. Enabling an efficient dialogue with researchers and agronomists about sound methods for field data collection will increase the efficiency and reliability of agricultural projects. The Shiny package in R allows interactive web applications to be created based upon existing R packages. This presentation will outline the steps involved in creating an app that implements sampling techniques such as SRS, Stratified Sampling, and Ratio Sampling, within a visually appealing graphical environment for use in the education and agricultural sectors.
 <p></p>
 ## Graphical Network Analyses Informs Biomarker Discovery Via Quantification Of Key Disease Related Connections {-}
 <p style="text-align:center">
-James Doecke</br>
-CSIRO</br>
+James Doecke<br>
+CSIRO<br>
 </p>
 Determination of the optimal set of biomarkers often relies on large scale feature selection, that selects a minimal set of independent biomarkers, without consideration of any information regarding the biological network. This research is aimed at defining biological network structures related to disease phenotype, through a three-level statistical process. Briefly, we first implement an unsupervised correlation structure across the set of biomarkers, used to define clusters of biomarkers via strict thresholding. Next, using the graphical network analysis method Differential Network Analysis in Genomics (DINGO), we define the differential network structure for healthy and disease states. Lastly from the derived differential connectivity score we cluster the individual groups of biomarkers. From this process, we are able to produce a network of similarly grouped sets of biomarkers that can separate healthy from disease subjects. Lastly we perform a random effects model for each cluster to estimate the association with disease status. Using this design, we have been able to incorporate information from multiple correlated biomarkers to increase the proportion of variance explained in disease status. We test this design on two data sets, 1) a set of ~2000 peptide biomarkers, with the express aim of defining sets of biomarkers associated with Alzheimer’s Disease pathology, and 2) a set of ~2000 mRNA probe sets combined with a set of ~2000 DNA methylation probes with the express aim of defining sets of biomarkers associated with breast cancer. We present network plots and connectivity structures for each data set, and highlight the increased performance of clustered biomarkers as compared to individual biomarkers to separate disease status. Lastly, we show that by utilizing a network approach, we can incorporate more biological information from the data to explain outcome.
 <p></p>
 ## Spatio-Temporal Cortical Brain Atrophy Patterns Of Alzheimer's Disease {-}
 <p style="text-align:center">
-Christopher Drovandi<sup>1</sup>, Kerrie Mengersen<sup>2</sup>, James Doecke<sup>3</sup>, Marcela Cespedes<sup>1</sup>, James McGree<sup>1</sup>, and Jurgen Fripp<sup>3</sup></br>
-<sup>1</sup> Queensland University of Technology</br>
-<sup>2</sup> Queensland University of Technlogy</br>
-<sup>3</sup> CSIRO</br>
+Christopher Drovandi~1~, Kerrie Mengersen~2~, James Doecke~3~, Marcela Cespedes~1~, James McGree~1~, and Jurgen Fripp~3~<br>
+~1~Queensland University of Technology<br>
+~2~Queensland University of Technlogy<br>
+~3~CSIRO<br>
 </p>
-The degeneration of the cerebral cortex is a complex process which often spans decades. This degeneration can be evaluated on regions of interest (ROI) in the brain through probabilistic network analysis. However, curre
+The degeneration of the cerebral cortex is a complex process which often spans decades. This degeneration can be evaluated on regions of interest (ROI) in the brain through probabilistic network analysis. However, current approaches for finding such networks have the following limitations: 1) analysis at discrete age groups cannot appropriately account for connectivity dynamics over time; and 2) morphological tissue changes are seldom unified with networks, despite known depe
