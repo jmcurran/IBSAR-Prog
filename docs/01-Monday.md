@@ -162,18 +162,6 @@ AgResearch<br />
 </p>
 Nitrous Oxide (N2O) is an important greenhouse gas with a global warming potential nearly 300 times that of carbon dioxide. Under the Kyoto Protocol New Zealand is required to report a greenhouse gas inventory annually which includes N2O. In New Zealand, 95% of N2O emissions are derived from nitrogen (N) inputs to agricultural soils (e.g. animal excreta and fertiliser). Field experiments are conducted to estimate these N2O emissions, where data is collated and analysed following a standard methodology to determine emission factors, which estimate the amount of N2O lost per unit of N applied to soil. However for individual datasets there are some aspects of the data are incompatible with the proposed model so some ad hoc adjustments are made. A more rigorous Bayesian approach is proposed and some results will be discussed.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 16:10 Narrabeen</p>
-## Analysis Of Smart Monitoring Data Of Gold3 Kiwifruit {-}
-<p style="text-align:center">
-Lindy Guo and Ringo Feng<br />
-Plant and Food<br />
-</p>
-Gold3 (Actinidia. chinensis *Zesy002*, marketed as Zespri&reg; SunGold Kiwifruit) is a new yellow-fleshed kiwifruit cultivar being used to replace *Hort16A* that has been almost all destroyed by the outbreak of Pseudomonas syringae pv. actinidiae (Psa) in 2010. The Smart Monitoring programme started in 2011, records fruit development, maturation, harvesting and storage performance of Gold3 kiwifruit from 12 orchards in a fairly consistent manner year after year. 
-
-The aim of this project is to summarize fruit development and storage potentials over the 5 years, and hence provide a better understanding of the roles of seasonal weather conditions, orchard management, and fruit attributes at harvest affecting storage potential. 
-
-For this project, storage life was defined as storage time for a batch of fruit (fruit harvested from an orchard on a particular date) to soften to 1 kfg. Several ways to calculated storage life based on firmness monitoring data are compared and the storage lives were correlated with weather conditions, orchard management, and fruit attributes at harvest using different algorithms. The results will be presented to highlight experiences learnt in this data analysis. Recommendations will be made on dealing with multiyear data with collinear variables.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 16:10 Gunnamatta</p>
 ## Rethinking Biosecurity Inspections: A Case Study Of The Asian Gypsy Moth (AGM) In Australia {-}
 <p style="text-align:center">
