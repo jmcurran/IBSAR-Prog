@@ -67,17 +67,17 @@ In trawling for prawns, the prawn catch is often only a small part of the result
  The focus of this talk will be the analysis, which also proved somewhat challenging. We will present the results of our analysis and demonstrate why putting the time into thinking about and generating a non-standard experimental design allowed us to accommodate the various glitches and misfortunes that always seem to happen at sea.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 29<sup>th</sup> 10:50 Bundeena</p>
-## Comparison Of Separable And Non-Separable Models In Analysis Of Macadamia Four-Way Multi-Harvest Multi-Environment Variety Selection Data {-}
+## Rethinking Biosecurity Inspections: A Case Study Of The Asian Gypsy Moth (AGM) In Australia {-}
 <p style="text-align:center">
-Joanne De Faveri and Dougal Russell<br />
-Queensland Department of Agriculture and Fisheries<br />
+Petra Kuhnert^1^, Dean Paini^1^, Paul Mwebaze^1^, and John Nielsen^2^<br />
+^1^CSIRO<br />
+^2^Department of Agriculture and Water Resources<br />
 </p>
-Variety selection in Horticulture crops usually involves testing varieties in field trials at multiple locations over a number of years with repeated measurements on each tree or plant. The aim of these trials is to get accurate predictions for variety performance over times and environments and to investigate variety by environment (location and time) interaction. In the analysis of such data there are a number of issues to account for including the spatial and temporal correlation between repeated measurements on plants in the field. There is also the need to adequately model the genetic covariance structure between varieties across sites and harvest times. In this talk we will look at the linear mixed model analysis of yield data from macadamia varieties grown on two rootstocks at multiple sites, measured over multiple years. This four-way multi-harvest, multi-environment variety by rootstock data may be modelled using separable or non-separable models at both the genetic and residual levels. While separable models are desirable for their ease of interpretation and computing advantages, the structure they assume is quite restrictive and may not hold in practice. Alternatives may include the 2DIMVAR1 (De Faveri et al 2017) residual models and four-way genetic models using factor analytic models (Smith et al 2001). We investigate and compare the different approaches.
+The Asian gypsy moth (AGM) (Lymantria dispar asiatica) is a serious biosecurity risk to Australia’s forestry and horticultural industries. While similar in appearance to the European gypsy moth (Lymantria dispar dispar), the Asian gypsy moth is capable of flying up to 40 kilometres and therefore has the potential to establish and spread in other areas like Australia. In addition, females are attracted to light and will oviposit (lay eggs) indiscriminately. As a result, females are attracted to shipping ports at night and will oviposit on ships. These ships therefore have the potential to spread this moth around the world. 
 
-**References:**
+The life-cycle of the moth has been well documented and is heavily dependent on temperature, with eggs undergoing three phases of diapause before hatching. Current inspections of vessels arriving into Australian ports from what is deemed an “at risk” port is a lengthy and costly process. 
 
-1. J De Faveri, A.P Verbyla, B. Cullis, W.Pitchford and R.Thompson (2017) Residual variance-covariance modelling in analysis of multivariate data from variety selection trials. Journal of Agricultural, Biological & Environmental Statistics 22, 1-22 
-2. Smith A, Cullis B and Thompson R (2001) Analysing variety by environment data using multiplicative mixed models and adjustments for spatial field trend. Biometrics 57, 1138-1147
+To assist the Department of Agriculture with their prioritisation of ships, we developed an AGM Tool in the form of an R Shiny App that (1) shows the shortest maritime path from an at risk port to an Australian port for a vessel of interest and (2) predicts the probability of a potential hatch and it’s reliability using a classification tree model that was developed to emulate the lifecycle of the moth from simulated data. In this talk we will discuss the methodology that (1) simulates the AGM biology and potential hatches of eggs, along with how we extracted relevant temperature data that was the primary driver of the lifecycle for AGM, and (2) emulates this simulated data using a statistical model, namely a classification tree to predict the probability of a potential hatch. We will also discuss a bootstrap approach to explore the reliability of the potential hatch predicted.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 29<sup>th</sup> 11:10 Narrabeen</p>
 ## Subtractive Stability Measures For Improved Variable Selection {-}

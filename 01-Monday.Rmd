@@ -162,16 +162,3 @@ AgResearch<br />
 </p>
 Nitrous Oxide (N2O) is an important greenhouse gas with a global warming potential nearly 300 times that of carbon dioxide. Under the Kyoto Protocol New Zealand is required to report a greenhouse gas inventory annually which includes N2O. In New Zealand, 95% of N2O emissions are derived from nitrogen (N) inputs to agricultural soils (e.g. animal excreta and fertiliser). Field experiments are conducted to estimate these N2O emissions, where data is collated and analysed following a standard methodology to determine emission factors, which estimate the amount of N2O lost per unit of N applied to soil. However for individual datasets there are some aspects of the data are incompatible with the proposed model so some ad hoc adjustments are made. A more rigorous Bayesian approach is proposed and some results will be discussed.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 16:10 Gunnamatta</p>
-## Rethinking Biosecurity Inspections: A Case Study Of The Asian Gypsy Moth (AGM) In Australia {-}
-<p style="text-align:center">
-Petra Kuhnert^1^, Dean Paini^1^, Paul Mwebaze^1^, and John Nielsen^2^<br />
-^1^CSIRO<br />
-^2^Department of Agriculture and Water Resources<br />
-</p>
-The Asian gypsy moth (AGM) (Lymantria dispar asiatica) is a serious biosecurity risk to Australia’s forestry and horticultural industries. While similar in appearance to the European gypsy moth (Lymantria dispar dispar), the Asian gypsy moth is capable of flying up to 40 kilometres and therefore has the potential to establish and spread in other areas like Australia. In addition, females are attracted to light and will oviposit (lay eggs) indiscriminately. As a result, females are attracted to shipping ports at night and will oviposit on ships. These ships therefore have the potential to spread this moth around the world. 
-
-The life-cycle of the moth has been well documented and is heavily dependent on temperature, with eggs undergoing three phases of diapause before hatching. Current inspections of vessels arriving into Australian ports from what is deemed an “at risk” port is a lengthy and costly process. 
-
-To assist the Department of Agriculture with their prioritisation of ships, we developed an AGM Tool in the form of an R Shiny App that (1) shows the shortest maritime path from an at risk port to an Australian port for a vessel of interest and (2) predicts the probability of a potential hatch and it’s reliability using a classification tree model that was developed to emulate the lifecycle of the moth from simulated data. In this talk we will discuss the methodology that (1) simulates the AGM biology and potential hatches of eggs, along with how we extracted relevant temperature data that was the primary driver of the lifecycle for AGM, and (2) emulates this simulated data using a statistical model, namely a classification tree to predict the probability of a potential hatch. We will also discuss a bootstrap approach to explore the reliability of the potential hatch predicted.
-<p class="pagebreak"></p>
