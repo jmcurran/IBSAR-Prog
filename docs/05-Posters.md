@@ -30,15 +30,6 @@ The ability of a plant to retain leaf greenness for an extended time after anthe
 
  We discuss two alternative one-stage methods for modelling senescence dynamics based on longitudinal NDVI measurements. Both of these methods enable the variability in senescence patterns to be partitioned into genetic and non-genetic components, while also incorporating the experimental structure. The first method involves the use of splines in a linear mixed model framework. This method allows an appropriate covariance structure for repeated measures to be utilised and, unlike other approaches, enables flexibility in the senescence patterns. The second method involves fitting logistic equations in a non-linear mixed model framework. The estimated parameters have biological interpretations, aiding in the genetic comparison of senescence dynamics. These two methods offer a more statistically robust approach to modelling crop senescence and the underlying genetic variability.
 <p class="pagebreak"></p>
-## A Permutation Test For Comparing Predictive Values In Clinical Trials {-}
-<p style="text-align:center">
-Kouji Yamamoto and Kanae Takahashi<br />
-Osaka City University<br />
-</p>
-Screening tests or diagnostic tests are important for early detection and treatment of disease. There are four well-known measurements, sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) in diagnostic studies. For comparing SEs/SPs, McNemar test is widely used, but there are only few methods for the comparison of PPVs/NPVs. Moreover, all of these methods are based on large-sample theory.
-
-So, in this talk, firstly, we investigate the performance of those methods when the sample size is small. In addition, we propose a permutation test for comparing two PPVs/NPVs we can apply even if the sample size is small. Finally, we show the performance of the proposed method with some existing methods via simulation studies.
-<p class="pagebreak"></p>
 ## On Testing Marginal Homogeneity For Square Contingency Tables With Ordinal Categories {-}
 <p style="text-align:center">
 Kouji Tahata<br />

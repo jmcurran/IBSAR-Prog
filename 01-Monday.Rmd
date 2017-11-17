@@ -75,6 +75,16 @@ Michael Stewart^1^ and Alan Welsh^2^<br />
 We report on recent work using semiparametric theory to derive procedures with desirable robustness and efficiency properties in the context of inference concerning scale parameters for random effect models.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 12:00 Narrabeen</p>
+## A Permutation Test For Comparing Predictive Values In Clinical Trials {-}
+<p style="text-align:center">
+Kouji Yamamoto and Kanae Takahashi<br />
+Osaka City University<br />
+</p>
+Screening tests or diagnostic tests are important for early detection and treatment of disease. There are four well-known measurements, sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) in diagnostic studies. For comparing SEs/SPs, McNemar test is widely used, but there are only few methods for the comparison of PPVs/NPVs. Moreover, all of these methods are based on large-sample theory.
+
+So, in this talk, firstly, we investigate the performance of those methods when the sample size is small. In addition, we propose a permutation test for comparing two PPVs/NPVs we can apply even if the sample size is small. Finally, we show the performance of the proposed method with some existing methods via simulation studies.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 12:00 Gunnamatta</p>
 ## Robust Penalized Logistic Regression Through Maximum Trimmed Likelihood Estimator {-}
 <p style="text-align:center">
 Hongwei Sun, Yuehua Cui, and Tong Wang<br />
