@@ -30,6 +30,6 @@ Samuel Mueller, President IBS-AR
 ![](pictures/samuelsig.png)
 
 
-# Programme At A Glance
+# Programme At A Glance {-}
 
-![](pictures/programme.png)
+![](pictures/monday.png)
