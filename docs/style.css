@@ -18,27 +18,37 @@ table {
   border-style: solid;
 }
 
-.confClose {
+.close {
+  border-width: 1px;
+  border-style: solid;
   background-color: #ff00ff;
   text-align: center;
   font-weight: bold;
 }
 
 .contributed {
+  border-left: solid black 1px;
+  border-right: solid black 1px;
   background-color: #ccccff;
   text-align: left;
   font-weight: bold;
   font-style: italic;
+  vertical-align: top;
 }
 
 .keynote {
+  border-width: 1px;
+  border-style: solid;
   color: white;
   background-color: red;
   text-align: center;
   font-weight: bold;
+  vertical-align: top;
 }
 
 .mealbreak {
+  border-width: 1px;
+  border-style: solid;
   background-color: #ffd966;
   text-align: center;
   font-weight: bold;
@@ -46,6 +56,8 @@ table {
 }
 
 .poster {
+  border-width: 1px;
+  border-style: solid;
   background-color: #cfe2f3;
   text-align: center;
   font-weight: bold;
@@ -53,17 +65,22 @@ table {
 }
 
 .sessionheader, .housekeeping, .day {
+  border-width: 1px;
+  border-style: solid;
   font-weight: bold;
   text-align: center;
 }
 
 .time {
+  border-right: solid black 1px;
   background-color: #cccccc;
   text-align: right;
   vertical-align: top;
 }
 
 .welcome {
+  border-width: 1px;
+  border-style: solid;
   color: white;
   background-color: #99cc00;
   text-align: center;

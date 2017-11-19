@@ -297,11 +297,12 @@
 </thead>
 <tbody>
 <tr>
-<td class = "time"></td>
-<td class = "sessionheader">Housekeeping</td>
+<td class = "time">850</td>
+<td class = "housekeeping" colspan = "2">Housekeeping</td>
 </tr>
 <tr>
 <td class = "time">900</td>
+<td class = "keynote" colspan = "2">A General Framework For Functional Regression Modelling<br/>Sonja Greven<br/>LM University, Munich</td>
 </tr>
 <tr>
 <td class = "time">950</td>
