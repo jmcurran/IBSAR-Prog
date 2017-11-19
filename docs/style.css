@@ -12,3 +12,55 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.confClose {
+  background-color: #ff00ff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.contributed {
+  background-color: #ccccff;
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.keynote {
+  color: white;
+  background-color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.mealbreak {
+  background-color: #ffd966;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.poster {
+  background-color: #cfe2f3;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.sessionheader, .housekeeping, .day {
+  font-weight: bold;
+  text-align: center;
+}
+
+.time {
+  background-color: #cccccc;
+  text-align: right;
+  vertical-align: top;
+}
+
+.welcome {
+  color: white;
+  background-color: #99cc00;
+  text-align: center;
+  font-weight: bold;
+}
