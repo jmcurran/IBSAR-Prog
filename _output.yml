@@ -17,5 +17,8 @@ bookdown::epub_book:
   stylesheet: style.css
   toc: yes
 bookdown::html_document2:
+  css: style.css
   toc: yes
   number_sections: no
+bookdown::word_document2:
+  toc: yes

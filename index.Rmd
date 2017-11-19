@@ -26,7 +26,8 @@ This conference will be a success because of excellent work by many, in particul
 
 Last but not least I thank our Platinum sponsors ACEMS, GRDC and the University of Sydney for their generous financial support, many aspects of the conference are only possible because of their help.
 
-Samuel Mueller, President IBS-AR
+Samuel Mueller, President IBS-AR<br />
+
 ![](pictures/samuelsig.png)
 
 

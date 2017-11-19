@@ -14,8 +14,12 @@ pre code {
 }
 
 table {
-  border-width: 1px;
-  border-style: solid;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
 
 .close {
@@ -72,7 +76,8 @@ table {
 }
 
 .time {
-  border-right: solid black 1px;
+  width: 70px;
+  border-right: solid black;
   background-color: #cccccc;
   text-align: right;
   vertical-align: top;
