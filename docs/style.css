@@ -13,6 +13,11 @@ pre code {
   white-space: inherit;
 }
 
+table {
+  border-width: 1px;
+  border-style: solid;
+}
+
 .confClose {
   background-color: #ff00ff;
   text-align: center;
