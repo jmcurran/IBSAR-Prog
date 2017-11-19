@@ -93,7 +93,7 @@
 </tr>
 <tr>
 <td class = "time">1645</td>
-<td class = "poster" colspan = "2">Lightning Talks followed by Poster Session<br/>Kindly Sponsored by the Grains Research and Development Council</td>
+<td class = "poster" colspan = "2">Lightning Talks followed by Poster Session<br/>Kindly Sponsored by the Grains Research and Development Corporation</td>
 </tr>
 </tbody>
 </table>

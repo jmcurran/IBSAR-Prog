@@ -1,5 +1,5 @@
 # Programme And Abstracts For Thursday 30^th^ Of November {-}
-<p style="color:white;background-color:red;text-align:center">Keynote: Thursday 30<sup>th</sup> 9:00 Mantra</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Thursday 30<sup>th</sup> 9:00 Mantra</p>
 ## A General Framework For Functional Regression Modelling {-}
 <p style="text-align:center">
 Sonja Greven and Fabian Scheipl<br />

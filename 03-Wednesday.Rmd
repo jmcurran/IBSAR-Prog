@@ -1,5 +1,5 @@
 # Programme And Abstracts For Wednesday 29^th^ Of November {-}
-<p style="color:white;background-color:red;text-align:center">Keynote: Wednesday 29<sup>th</sup> 9:00 Mantra</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Wednesday 29<sup>th</sup> 9:00 Mantra</p>
 ## Statistics On Street Corners {-}
 <p style="text-align:center">
 Dianne Cook<br />
@@ -198,7 +198,7 @@ Martina Mincheva^1^, Hongzhe Li^2^, and Jun Chen^3^<br />
 </p>
 Next generation sequencing technologies make it possible to survey microbial communities by sequencing nucleic acid material extracted from multiple samples. The metagenomic read counts are summarized as empirical distributions on a reference phylogenetic tree. The distance between them is evaluated by the Kantorovich-Rubinstein (kr) metric, equivalent to the commonly used weighted UniFrac distance on a tree. This paper proposes a method to test the hypothesis that two sets of samples have the same microbial composition. The asymptotic distributions of the kr distance between the two Frechet means and  the Frechet variances are derived and are shown to be independent. The test statistic is defined as the ratio of those distances and it is shown to follow an asymptotic F-distribution. Its generality stems from the fact that the test is nonparametric and requires no assumptions on the probability distributions of the count data. It is also applicable for varying set sizes and sample sizes. It is an extension of Evans and Matsen (2012) who suggest a test to only compare two single samples. The computational efficiency of the proposed test comes from the exact asymptotic distribution of the proposed test statistic. Extensive data analysis shows that the test is significantly faster than the permutation-based multivariate analysis of variance using distance matrices (permanova) (McArdle and Anderson, 2001). At the same time, it has correct type 1 errors and comparable power, which makes it preferable in the analysis of large scale microbiome data.
 <p class="pagebreak"></p>
-<p style="color:white;background-color:red;text-align:center">Keynote: Wednesday 29<sup>th</sup> 13:40 Mantra</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Wednesday 29<sup>th</sup> 13:40 Mantra</p>
 ## Statistical Strategies For The Analysis Of Large And Complex Data {-}
 <p style="text-align:center">
 Louise Ryan^1,2^, Stephen Wright^1,3^, and Hon Hwang^1^<br />
