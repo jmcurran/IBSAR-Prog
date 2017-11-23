@@ -37,7 +37,7 @@
 <tr>
 <td class = "time">1120</td>
 <td class = "contributed">Analysing Digestion Data<br/>Maryann Staincliffe, AgResearch Ltd.</td>
-<td class = "contributed">Mixed Models For Complex Survey Data<br/>Xudong Huang, University of Auckland</td>
+<td class = "contributed">A Permutation Test For Comparing Predictive Values In Clinical Trials<br/>Kouji Yamamoto, Osaka City University</td>
 </tr>
 <tr>
 <td class = "time">1140</td>
@@ -46,7 +46,7 @@
 </tr>
 <tr>
 <td class = "time">1200</td>
-<td class = "contributed">A Permutation Test For Comparing Predictive Values In Clinical Trials<br/>Kouji Yamamoto, Osaka City University</td>
+<td class = "contributed"></td>
 <td class = "contributed">Robust Penalized Logistic Regression Through Maximum Trimmed Likelihood Estimator<br/>Tong Wang, Shanxi Medical Universty, China</td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@
 <td class = "contributed">Estimating Nitrous Oxide Emission Factors<br/>Alasdair Noble, AgResearch Ltd.</td>
 </tr>
 <tr>
-<td class = "time">1645</td>
+<td class = "time">1630</td>
 <td class = "poster" colspan = "2">Lightning Talks followed by Poster Session<br/>Kindly Sponsored by the Grains Research and Development Corporation</td>
 </tr>
 </tbody>

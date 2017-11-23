@@ -44,12 +44,14 @@ AgResearch<br />
 Food technologist are interested in understanding if adding grain and/or vegetables to beef increases the digestibility over meat alone. Digestibility of meat was measured at up to 4 hours using a pepsin and pancreatin in vitro model. This method involves using gels in lanes, where the density of the colour of the gel is an indicator of the presence of a protein or peptide at that level of kilodalton (kDa). Typically kDa above 12kDa are considered to be the proteins and lower than that are the peptides. In the past we have analysed these data using two approaches. The first approach is to select 4 or 5 bands that expected to be important and then use a mixed effects model to compare the mean Trace Quantity of each of the bands, where Meat type, Additive type (vegetable and/or grain) and Time points are fixed factors and the gel is a random effect. The second approach is to fit a curve to the change in the proportion of Trace Quantity above 12kDa from Time zero. The problem with these two approaches is that we struggle to provide a consistent interpretation of the results. Therefore, we will explore alternative methods for analysing this type of data.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 11:20 Gunnamatta</p>
-## Mixed Models For Complex Survey Data {-}
+## A Permutation Test For Comparing Predictive Values In Clinical Trials {-}
 <p style="text-align:center">
-Xudong Huang and Thomas Lumley<br />
-University of Auckland<br />
+Kouji Yamamoto and Kanae Takahashi<br />
+Osaka City University<br />
 </p>
-I want to fit a mixed model to a population distribution, but I have data from a complex (multistage) sample. The sampling is informative, that is, the model holding for the population is different from the model holding for the (biased) sample. Ignoring the sampling design and just fitting the mixed model to the sample distribution will lead to biased inference. Although both the model and sampling involve "clusters", the model clusters and sample clusters need not be the same. I will use a pairwise composite likelihood method to estimate the parameters of the population model under this setting. In particular, consistency and asymptotic normality can be established. Variance estimation in this problem is challenging. I will talk about a variance estimator and how to show it is consistent.
+Screening tests or diagnostic tests are important for early detection and treatment of disease. There are four well-known measurements, sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) in diagnostic studies. For comparing SEs/SPs, McNemar test is widely used, but there are only few methods for the comparison of PPVs/NPVs. Moreover, all of these methods are based on large-sample theory.
+
+So, in this talk, firstly, we investigate the performance of those methods when the sample size is small. In addition, we propose a permutation test for comparing two PPVs/NPVs we can apply even if the sample size is small. Finally, we show the performance of the proposed method with some existing methods via simulation studies.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 11:40 Narrabeen</p>
 ## Challenges And Opportunities Working As A Consulting Statistician With A Food Science Research Group {-}
@@ -73,16 +75,6 @@ Michael Stewart^1^ and Alan Welsh^2^<br />
 ^2^ANU<br />
 </p>
 We report on recent work using semiparametric theory to derive procedures with desirable robustness and efficiency properties in the context of inference concerning scale parameters for random effect models.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 12:00 Narrabeen</p>
-## A Permutation Test For Comparing Predictive Values In Clinical Trials {-}
-<p style="text-align:center">
-Kouji Yamamoto and Kanae Takahashi<br />
-Osaka City University<br />
-</p>
-Screening tests or diagnostic tests are important for early detection and treatment of disease. There are four well-known measurements, sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) in diagnostic studies. For comparing SEs/SPs, McNemar test is widely used, but there are only few methods for the comparison of PPVs/NPVs. Moreover, all of these methods are based on large-sample theory.
-
-So, in this talk, firstly, we investigate the performance of those methods when the sample size is small. In addition, we propose a permutation test for comparing two PPVs/NPVs we can apply even if the sample size is small. Finally, we show the performance of the proposed method with some existing methods via simulation studies.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 27<sup>th</sup> 12:00 Gunnamatta</p>
 ## Robust Penalized Logistic Regression Through Maximum Trimmed Likelihood Estimator {-}
